@@ -17,7 +17,6 @@ public class DetalheFilmeActivity extends AppCompatActivity {
         setContentView(R.layout.activity_detalhe_filme);
 
         //filme
-
         id = findViewById(R.id.txtId);
         titulo = findViewById(R.id.txtTitulo);
         descricao = findViewById(R.id.txtDescricao);
